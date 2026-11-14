@@ -7,11 +7,11 @@
    em diante a página carrega do cache primeiro e a rede nem é
    consultada. Seus cartões não ficam aqui: eles estão no IndexedDB.
    ============================================================ */
-const CACHE = "liceu-bolso-v20261113202844";
+const CACHE = "liceu-bolso-v20261114124340";
 const ARQUIVOS = [
   "./",
   "./index.html",
-  "./assets/index-C-K4pD9t.js",
+  "./assets/index-CgaYKyyi.js",
   "./assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
   "./assets/KaTeX_Caligraphic-Bold-Dq_IR9rO.woff2",
   "./assets/KaTeX_Caligraphic-Regular-Di6jR-x-.woff2",
@@ -32,7 +32,7 @@ const ARQUIVOS = [
   "./assets/KaTeX_Size3-Regular-gV2CO0n9.woff2",
   "./assets/KaTeX_Size4-Regular-Dl5lxZxV.woff2",
   "./assets/KaTeX_Typewriter-Regular-CO6r4hn1.woff2",
-  "./assets/index-BUbk9ept.css",
+  "./assets/index-CgeDNxYX.css",
   "./icone-180.png",
   "./icone-512.png",
   "./manifest.webmanifest"
